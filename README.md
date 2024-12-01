@@ -40,9 +40,9 @@ Aspiring Data Analyst striving to use my technical skills to achieve social just
 ##### Developing a Smart Restaurant Recommendation System for Dropbox (December 2023)
 - Completed for the Break Through Tech AI Program
 - Used Matrix Factorization to predict which restaurants users may like based off of their past ratings of other restaurants.
-- Link to GitHub Repo:
+- [Dropbox-Restaurants Repository](https://github.com/mauraanish/Dropbox-Restaurants)
 
 ##### Using Machine Learning to Analyze the Highest-Rated Films on IMDb (May 2023)
 - Completed for MATH 398: Machine Learning taught by Dr. Michael Kahn
 - Applied Multiple Linear Regression, Lasso Regression, Ridge Regression, Best-Subset Selection, and Regression Trees to predict ratings of films on IMDb and determine which predictors were most important to making those predictions.
-- Link to GitHub Repo:
+- [IMDb-Ratings Repository](https://github.com/mauraanish/IMDb-Ratings)

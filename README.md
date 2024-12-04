@@ -5,7 +5,7 @@ Aspiring Data Analyst striving to use my technical skills to achieve social just
 - B.A. in Data Science and Women's & Gender Studies from Wheaton College, Norton, MA (May 2024)
 
 ### Work Experience
-##### Tutor-Consultant at the University of Massachusetts, Amherst, MA  (Sep. 2024 - present)
+##### Tutor-Consultant/Classroom Assistant at the University of Massachusetts, Amherst, MA  (Sep. 2024 - present)
 - Guide graduate students in DACSS 601: Data Science Fundamentals and DACSS 756: Machine Learning for Social Scientists in transforming, visualizing, and building models with data in R.
 
 ##### Break Through Tech AI Fellow at the Massachusetts Institute of Technology, Cambridge, MA  (May 2023 - Apr. 2024)
@@ -30,12 +30,12 @@ Aspiring Data Analyst striving to use my technical skills to achieve social just
 ##### Recreating the Oscar Awards Database (December 2024)
 - Completed for DACSS 690A: Data Engineering taught by Dr. Tyler Horan
 - Designed an ETL pipeline to extract data from all 96 Academy Awards ceremonies from the Oscars website, transform it into a tabular format, and load it into a Flask application to present statistics and visualizations.
-- Link to GitHub Repo:
+- [Oscars-Data Repository](https://github.com/mauraanish/Oscars-Data)
 
 ##### Performing Sentiment Analysis on Vampire Movie Reviews (December 2024)
 - Completed for DACSS 758: Text as Data taught by Dr. Rosemary Pang
 - Built Naive Bayes, Support Vector Machine, and Random Forest models to predict whether reviews of vampire movies from Rotten Tomatoes were positive or negative and determine which words were most important to making those predictions.
-- Link to GitHub Repo:
+- [Vampire-Reviews Repository](https://github.com/mauraanish/Vampire-Reviews)
 
 ##### Developing a Smart Restaurant Recommendation System for Dropbox (December 2023)
 - Completed for the Break Through Tech AI Program
